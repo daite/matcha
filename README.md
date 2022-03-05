@@ -1,2 +1,2 @@
 # Matcha Latte
-![This is an image](https://raw.githubusercontent.com/daite/matcha/main/images/matcha.png)
+![This is an image](https://github.com/daite/matcha/blob/main/images/s.png)
