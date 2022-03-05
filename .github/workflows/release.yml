@@ -1,4 +1,7 @@
-on:
+
+name: rust-build
+
+on: 
   release:
     types: [created]
 
