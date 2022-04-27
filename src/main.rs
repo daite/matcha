@@ -48,7 +48,7 @@ async fn get_magnet(url: &str) -> Result<String, Box<dyn std::error::Error>> {
 }
 
 async fn execute(keyword: &str) -> Result<(), Box<dyn std::error::Error>> {
-    let site_url = "https://torrentjuju.com/bbs/";
+    let site_url = "https://torrentjuju3.com/bbs/";
     let url = format!(
         "{}{}{}",
         site_url,
